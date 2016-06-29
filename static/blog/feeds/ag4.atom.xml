@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/feeds/ag4.atom.xml" rel="self"></link><id>http://g4cdw18-40323138.rhcloud.com/static/blog/</id><updated>2016-06-29T23:56:05+08:00</updated><entry><title>40323140 cdw18 期末報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323140-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:56:05+08:00</updated><author><name>40323140</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323140-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;h2&gt;1.Leo Editor的使用&lt;/h2&gt;
+&lt;p&gt;Leo Editor是以python開發的一套採用層狀資料結構管理的編輯器,類似於python的縮排讓使用者在進行複雜的資料結構操作時更直觀更淺顯易懂,本課程僅使用了save、save as、button、文字編輯等功能,但也足夠我們這群不懂網站資料結構的學生進行資料維護了,尤其配合button功能可以輕易將.py檔轉成html操作上簡單便利,只要在.md檔完成文字編輯後別忘了轉檔(button local-pelican跟gh-pages-pelican )大致上都不會有問題。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;2.2D鍊條繪圖&lt;/h2&gt;
+&lt;p&gt;4.建立畫布&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/13516566_901442476649845_1327488355482383291_n.jpg?oh=f3d24ad478c554b318e216f1f9b7b9a9&amp;oe=57F096FF" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;5.註冊&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/13501919_901439156650177_5141014502738624874_n.jpg?oh=43e55a0a7a4bacf1147f99a1f740e4d9&amp;oe=57F4071F" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;6.鍊條繪製&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/13537642_901436483317111_2031818054555947420_n.jpg?oh=5ca0798eb692d0d305e72d0e077cd6d2&amp;oe=580A326A" width="85%" /&gt;&lt;/p&gt;
+&lt;p&gt;7.齒輪&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/s543iKI.png"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;3.3D齒輪&lt;/h2&gt;
+&lt;p&gt;導入齒輪設定參數&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/13533308_901451206648972_6434968589170714777_n.jpg?oh=518ce4e7e9b7469f5cc2b731dcfad09b&amp;oe=580476C2"&gt;&lt;/p&gt;
+&lt;p&gt;組合&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/13521893_901448723315887_3418280580050737403_n.jpg?oh=27390a7c24550ea3a0f0193a463c8733&amp;oe=5802BD51"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;一學期又匆匆過了,感覺上除了我以外的同學都獲益良多(冏rz),不過看似什麼都沒學到的我卻第一次發現自己原來也能加入協同,雖然進度很慢(其實就是壓線)但是卻不至於變成倉儲殺手,不過對於繪圖部分還是有點疑問,雖然知道原理但要兜出那一長串的繪圖參數根本就強人所難阿!除此之外倒是還大致了解,齒輪嚙合倒不難理解,難就難在怎麼把它寫成程式!  最後,感謝老師跟同學這學期的教導。&lt;/p&gt;
+&lt;p&gt;自評成績:70&lt;/p&gt;</summary><category term="40323140"></category><category term="cdw18"></category></entry><entry><title>40323135 cdw18 期末報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323135-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:47:03+08:00</updated><author><name>40323135</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323135-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;6/20課堂期末作業報告&lt;/p&gt;
+&lt;p&gt;2D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://g4cdw18-40323138.rhcloud.com/ag4_1/gears35"&gt;http://g4cdw18-40323138.rhcloud.com/ag4_1/gears35&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/8tuc2LU.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749"&gt;https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/u5lZgqi.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/u5lZgqi&lt;/p&gt;
+&lt;p&gt;心得:四個齒輪有點麻煩的地方是它的齒輪角度要調三次，
+     至於其他地方就跟不同齒的齒輪差不多了。&lt;/p&gt;
+&lt;p&gt;自評：70&lt;/p&gt;
+&lt;p&gt;期末報告連結
+&lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323135-cdw17-qi-mo-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323135-cdw17-qi-mo-bao-gao.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323135"></category><category term="cdw18"></category></entry><entry><title>40323136 cdw18 期末報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323136-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:47:03+08:00</updated><author><name>40323136</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323136-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;6/20課堂期末作業報告&lt;/p&gt;
+&lt;p&gt;2D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://g4cdw18-40323138.rhcloud.com/ag4_1/gears36"&gt;http://g4cdw18-40323138.rhcloud.com/ag4_1/gears36&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/b6jh8kN.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;3D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749"&gt;https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/u5lZgqi.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/u5lZgqi&lt;/p&gt;
+&lt;p&gt;心得:使用onshape十分方便，齒輪的程式都有人寫好了
+     只需要設定各項參數，就可以自動跑出齒輪來，
+     要畫出零件十分快速，但在PYTHON程式的地方卡了
+     很久，一直都不會用，只好去請教同學，幸好同學
+     有人會，很慶幸有人願意教我。&lt;/p&gt;
+&lt;p&gt;自評：70&lt;/p&gt;
+&lt;p&gt;期末報告連結
+&lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323136-cdw17-qi-mo-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323136-cdw17-qi-mo-bao-gao.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323136"></category><category term="cdw18"></category></entry><entry><title>40323138 cdw18 期末課堂作業報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323138-cdw18-qi-mo-ke-tang-zuo-ye-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:47:03+08:00</updated><author><name>40323138</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323138-cdw18-qi-mo-ke-tang-zuo-ye-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;6/20課堂期末作業報告&lt;/p&gt;
+&lt;p&gt;2D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://g4cdw18-40323138.rhcloud.com/a40323138/cdw18gears"&gt;http://g4cdw18-40323138.rhcloud.com/a40323138/cdw18gears&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/aClPC24.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/aClPC24 &lt;/p&gt;
+&lt;p&gt;3D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749"&gt;https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/u5lZgqi.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/u5lZgqi&lt;/p&gt;
+&lt;p&gt;心得：經過期中前幾次練習 , 現在老師要我們應用也很快就做出來了,也有很多同學來找我問,也幫班上解決很多衝突,所以相當熟悉這門課程 ,也教導組別的人完成這堂課程&lt;/p&gt;
+&lt;p&gt;自評：85&lt;/p&gt;
+&lt;p&gt;期末報告連結
+&lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323138-cdw17-qi-mo-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323138-cdw17-qi-mo-bao-gao.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323138"></category><category term="cdw18"></category></entry><entry><title>40323144 cdw18 期末報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323144-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:47:03+08:00</updated><author><name>40323144</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323144-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;6/20課堂期末作業報告&lt;/p&gt;
+&lt;p&gt;2D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://g4cdw18-40323138.rhcloud.com/ag4_1/gears44"&gt;http://g4cdw18-40323138.rhcloud.com/ag4_1/gears44&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/q2ZZvln.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;3D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749"&gt;https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/u5lZgqi.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/u5lZgqi&lt;/p&gt;
+&lt;p&gt;心得:在學期過程中，學到了很多程式的繪畫技巧，在這個資訊時代的來臨，有關於"協同"是一個大家都要會的技能，老師提供給我們的Onshape繪圖軟體非常的好用，以前的SolidWorks 沒辦法做到協同這一點，所以每次如果有小組作業之類的，檔案都要儲存然後在傳來傳去有點麻煩，我覺得協同將會是以後大家都會的東西，學期快結束了，獲益良多。&lt;/p&gt;
+&lt;p&gt;自評:70&lt;/p&gt;
+&lt;p&gt;期末報告連結
+&lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323144-cdw17-qi-mo-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323144-cdw17-qi-mo-bao-gao.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323144"></category><category term="cdw18"></category></entry><entry><title>40323109 cdw18 期末報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323109-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:47:03+08:00</updated><author><name>40323109</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323109-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;6/20告&lt;/p&gt;
+&lt;p&gt;2D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://g4cdw18-40323138.rhcloud.com/ag4_1/gears09"&gt;http://g4cdw18-40323138.rhcloud.com/ag4_1/gears09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/NrTSCbo.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;3D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749"&gt;https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/u5lZgqi.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/u5lZgqi&lt;/p&gt;
+&lt;p&gt;心得：身為組長在這門課獲益良多這次期末做野也輕鬆完成&lt;/p&gt;
+&lt;p&gt;自評：70&lt;/p&gt;
+&lt;p&gt;期末報告連結
+&lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323109-cdw17-qi-mo-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323109-cdw17-qi-mo-bao-gao.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323109"></category><category term="cdw18"></category></entry><entry><title>40323130 cdw18 期末報告</title><link href="http://g4cdw18-40323138.rhcloud.com/static/blog/40323130-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-29T23:47:03+08:00</updated><author><name>40323130</name></author><id>tag:g4cdw18-40323138.rhcloud.com,2016-06-29:static/blog/40323130-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;6/20課堂期末作業報告&lt;/p&gt;
+&lt;p&gt;2D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://g4cdw18-40323138.rhcloud.com/ag4_1/gears30"&gt;http://g4cdw18-40323138.rhcloud.com/ag4_1/gears30&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/1Y9MzLC.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;3D圖:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749"&gt;https://cad.onshape.com/documents/5953fbfb4d4e53dcda9c5f9f/w/05026b3b0b61f2e968c6c0d4/e/f25daed50eacc93fa8f90749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/u5lZgqi.png="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;http://imgur.com/u5lZgqi&lt;/p&gt;
+&lt;p&gt;心得：之前都練習過所以這次報告相當容易&lt;/p&gt;
+&lt;p&gt;自評：70&lt;/p&gt;
+&lt;p&gt;期末報告連結
+&lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323130-cdw17-qi-mo-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323130-cdw17-qi-mo-bao-gao.html&lt;/a&gt;&lt;/p&gt;</summary><category term="40323130"></category><category term="cdw18"></category></entry></feed>
